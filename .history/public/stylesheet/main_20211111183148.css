@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+button {
+    border-radius: 10%;
+    border: none;
+    color: #CCCCCC;
+    padding: 5px 8px;
+}

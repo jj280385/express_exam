@@ -1,0 +1,52 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+    margin: 25px 15px;
+    padding: 15px;
+    position: relative;
+}
+
+a {
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    text-align: center;
+    line-height: 35px;
+    background: #CCCCCC;
+    border-radius: 8px;
+    border: none;
+    background-color: #CCCCCC;
+    width: 100px;
+    height: 35px;
+    top: 0px;
+}
+
+.front-page {
+    left: 0px;
+    font-weight: 600;
+}
+
+.about-page {
+    right: 220px;
+}
+
+.portfolio-page {
+    right: 110px;
+}
+
+.contact-page {
+    right: 0px;
+}
+
+.title {
+    margin: 50px 30px;
+    font-weight: 400;
+}
+
+.title {
+    margin: 50px 30px;
+    font-weight: 600;
+}

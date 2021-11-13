@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border-radius: 10%;
+    border: none;
+    color: rgb(138, 136, 136);
+}
