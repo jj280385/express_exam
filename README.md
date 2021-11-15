@@ -3,6 +3,7 @@
 此專案為學期驗收作業，透過使用Express製作一支簡單的網頁應用，當使用者點擊導覽列上的按鈕時，可以前往不同的頁面。
 驗收重點為正確的使用Express製作一個可啟動的應用程式，並且能正確的設定路由。
 
+![GITHUB](https://github.com/jj280385/express_exam/blob/main/express_exam%20photo.jpg)
 ---
 ## 功能描述 Features
 - 點擊回到首頁按鈕可連接回首頁
